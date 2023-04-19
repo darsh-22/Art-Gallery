@@ -1,2 +1,4 @@
 # Art-Gallery
 Brilliant Brushes is an online art gallery that offers a vast collection of high-quality artworks from some of the world's most talented artists. The website is designed to provide a user-friendly experience, allowing visitors to easily browse through different categories of art, including paintings, sculptures and more.
+
+To run this project, you must have xampp server in your computer, if not then download xampp and set up xampp server, after set up xampp server you have to start apache and MySQL from xampp server then create database in your localhost/phpmyadmin you can open this from xampp server by clicking admin. You will find database file in brilliant_brushes folder and import mysql file in localhost/phpmyadmin and after creating database you can easily run this project in your local browsers.
